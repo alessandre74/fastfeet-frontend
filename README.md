@@ -13,6 +13,6 @@ docker start redisfasfeet
 cd frontend
 yarn
 yarn start
-yarn queue
+yarn queue (com outra aba aberta do terminal)
 
 ````
